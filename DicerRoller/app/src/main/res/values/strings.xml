@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll_label">Roll</string>
+    <string name="message">"Dice Rolled!"</string>t
+    <string name="increment_label"> increment</string>
+</resources>
